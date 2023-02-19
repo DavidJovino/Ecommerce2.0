@@ -1,7 +1,4 @@
-import logo from './logo.svg';
-import yariga from './yariga.svg';
+import LOGOmini from './LOGOmini.svg';
+import LOGO_mini_img from './LOGO_mini_img.png';
 
-export {
-  logo,
-  yariga,
-};
+export { LOGOmini, LOGO_mini_img };
