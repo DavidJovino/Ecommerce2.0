@@ -1,7 +1,7 @@
 import React from 'react';
 
 const agentProfile = () => {
-  return <div>agenteProfile</div>;
+  return <div>agent-profile</div>;
 };
 
 export default agentProfile;
