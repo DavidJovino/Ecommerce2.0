@@ -140,10 +140,7 @@ const PropertyDetails = () => {
                 </Typography>
                 <Stack direction="row" alignItems="flex-end" gap={1}>
                   <Typography fontSize={25} fontWeight={700} color="#475BE8">
-                    ${propertyDetails.price}
-                  </Typography>
-                  <Typography fontSize={14} color="#808191" mb={0.5}>
-                    for one day
+                    BRL$ {propertyDetails.price}
                   </Typography>
                 </Stack>
               </Box>
